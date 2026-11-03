@@ -6,8 +6,10 @@ It also took me 3 hours to finish this project.
 The website consist of a main index page which have links to 3 recipes:  
 - Filipino Chicken Adobo
 - Filipino Ground Beef Adobo
-- Lumpiang Shanghai  
+- Lumpiang Shanghai
+
 Each recipe page includes a link back to index page, image of the finished dish, description, ingredients, and steps.
+
 ---
 # references
 - https://www.thekitchn.com/filipino-chicken-adobo-recipe-23652486
